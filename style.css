@@ -10,7 +10,7 @@ body {
 }
 @font-face {
     font-family:"project-1" ;
-    src: url("assets/fonts/static/Inter-Bold.ttf");
+    src: url("fonts/static/Inter-Bold.ttf");
 }
 .main{
     height: 600px;
@@ -23,7 +23,7 @@ body {
     border-radius: 10px;
 }
 .image{
-    background-image: url("assets/images/avatar-jessica.jpeg");
+    background-image: url("images/avatar-jessica.jpeg");
     height: 110px;
     width: 110px;
     background-color: transparent;
